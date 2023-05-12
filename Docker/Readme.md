@@ -4,9 +4,9 @@
 
 ---
 
-[**Docker: criando e gerenciando containers**](https://www.notion.so/Docker-criando-e-gerenciando-containers-ad472ed4537748d5ad3df3fd1c5493e9)
+[**Docker: criando e gerenciando containers**](https://github.com/Luck1080p/DevOps-Studies/blob/main/Docker/Alura-Docker/Alura_Docker_criando_e_gerenciando_containers.pdf)
 
-[Docker-commands](https://www.notion.so/Docker-commands-14e43a1af44848aaa2c20ad9b2b5cae2)
+[Docker-commands](https://github.com/Luck1080p/DevOps-Studies/blob/main/Docker/Alura-Docker/Docker-commands.md)
 
 ---
 
