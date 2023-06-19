@@ -39,7 +39,7 @@ Essas são apenas algumas pautas importantes para começar a aprender Kubernetes
 
 ---
 
-[Kubectl-Commands](https://www.notion.so/Kubectl-Commands-78c2dcba297349d3828971cf85258d97?pvs=21)
+[Kubectl-Commands](https://github.com/Luck1080p/DevOps-Studies/blob/main/Kubernetes/Kubectl-Commands.md)
 
 - **Procedimentos**
     - DLL no pod
