@@ -1,6 +1,6 @@
 # Kubernetes
 
-[****Kubernetes Labs - 1**** ](https://www.notion.so/Kubernetes-Labs-1-c20fcf907f404dc892f161fda35ddd33?pvs=21)
+[****Kubernetes Labs - 1**** ](https://github.com/Luck1080p/DevOps-Studies/blob/main/Kubernetes/alura-kubernetes/Kubernetes-labs-1.pdf)
 
 ---
 
