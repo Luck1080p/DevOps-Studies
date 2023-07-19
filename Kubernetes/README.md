@@ -3,6 +3,7 @@
 [****Kubernetes Labs - 1**** ](https://github.com/Luck1080p/DevOps-Studies/blob/main/Kubernetes/alura-kubernetes/Kubernetes-labs-1.pdf)
 
 [****Kubernetes Labs - 2**** ](https://github.com/Luck1080p/DevOps-Studies/blob/main/Kubernetes/alura-kubernetes/kubernetes-labs-2.pdf)
+
 ---
 
 Kubernetes é uma plataforma de código aberto para automatizar a implantação, o dimensionamento e o gerenciamento de aplicativos em contêineres. Ele fornece um ambiente para orquestrar e coordenar a execução de contêineres em um cluster de máquinas.
