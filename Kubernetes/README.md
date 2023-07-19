@@ -1,6 +1,7 @@
 # Kubernetes
 
 [****Kubernetes Labs - 1**** ](https://github.com/Luck1080p/DevOps-Studies/blob/main/Kubernetes/alura-kubernetes/Kubernetes-labs-1.pdf)
+
 [****Kubernetes Labs - 2**** ](https://github.com/Luck1080p/DevOps-Studies/blob/main/Kubernetes/alura-kubernetes/kubernetes-labs-2.pdf)
 ---
 
